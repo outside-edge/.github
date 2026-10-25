@@ -1,12 +1,11 @@
-## Hi there 👋
+## Outside Edge
 
-<!--
+Cricket data, tools, and research.
 
-**Here are some ideas to get you started:**
+📊 **Data access**: [ESPNcricinfo Python client](https://github.com/outside-edge/python-espncricinfo), [Match data and scraping scripts](https://github.com/outside-edge/get_cricket_data).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🏏 **Team and player ratings**: [Elo ratings by format](https://github.com/outside-edge/elo_cricket), [Wins above replacement](https://github.com/outside-edge/war).
+
+🔎 **Research and analysis**: [Winning the toss and winning the match](https://github.com/outside-edge/fairly_random), [Earlier toss analysis](https://github.com/outside-edge/toss_up), [IPL auction prices and player performance](https://github.com/outside-edge/ipl_auction).
+
+[All repositories](https://github.com/orgs/outside-edge/repositories)
